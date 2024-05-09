@@ -1,0 +1,4 @@
+console.log("Name - Deep");
+console.log("class - Deep");
+console.log("sub - Deep");
+console.log("ass - Deep");

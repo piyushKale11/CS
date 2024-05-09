@@ -1,0 +1,4 @@
+docker --version
+node deep.js   (should be in current directory)
+docker build -t foldername
+docker images 
